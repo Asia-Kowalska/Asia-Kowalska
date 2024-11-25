@@ -3,6 +3,7 @@
 I’m an aspiring Data Analyst with a strong foundation in SQL, Python, and data visualization tools. I’m passionate about transforming raw data into meaningful insights that drive strategic decisions. Currently, I’m focused on expanding my analytical skills through real-world projects and continuous learning. With an eye for detail and a commitment to accuracy, I enjoy exploring data trends, building visualizations, and optimizing queries. I’m excited to apply my knowledge and grow my expertise in a collaborative, results-driven environment.
 ## 📫 How to reach me:
 https://www.linkedin.com/in/joanna-kowalska-859831230/
+
 e-mail: wirtualnaasia@gmail.com
 <!--
 **Asia-Kowalska/Asia-Kowalska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
